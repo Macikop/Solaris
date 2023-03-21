@@ -1,7 +1,0 @@
-<cfd_design_studies version="23.0.20221213" user_name="Maciej">
- <design_study study_id="6f00d448-9be6-44df-aba4-c6b14840a90a" folder="C:/Users/Maciej/Desktop/samolot/Solaris/main/new model/Simsamsol" instance_id="id_not_defined" name="Simsamsol">
-  <design lock_status="false" model_id="Samolot.cfdsmt" launcher_type="CP_ASM_INVENTOR_IMPORT" name="Design 1">
-   <analysis name="Scenario 1"/>
-  </design>
- </design_study>
-</cfd_design_studies>
