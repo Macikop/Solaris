@@ -1,7 +1,0 @@
-<cfd_design_studies version="23.0.20220516" user_name="szykr">
- <design_study study_id="49dd6b5b-6a7a-4fb9-aa05-34336d4a1ad5" folder="D:/Folder Instalacyjny/GitHub Pliki/Solaris/new model/Solaris" instance_id="e2a3dcff-dc7e-40ae-8eb1-e1b66b9b0c81" name="Solaris">
-  <design model_id="Samolot w wodzie.cfdsmt" lock_status="false" launcher_type="CP_ASM_INVENTOR_IMPORT" name="Design 1">
-   <analysis name="Scenario 1"/>
-  </design>
- </design_study>
-</cfd_design_studies>
