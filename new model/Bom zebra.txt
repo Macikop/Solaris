@@ -1,0 +1,14 @@
+Item	Part Number	Thumbnail	BOM Structure	Unit QTY	QTY	Stock Number	Description	REV			
+2d	T¿ebro default	(NonDisplayable)	Normal	Each	6					
+5d	T¿ebro z lotk¹t	(NonDisplayable)	Normal	Each	8			
+6d	Tlotka	(NonDisplayable)	Normal	Each	8				
+10d	¯ero monta¿	(NonDisplayable)	Normal	Each	6 + 2 = 8			
+11d	¯ebro default	(NonDisplayable)	Normal	Each	14 + 2 = 16	(4 na pierwszym 12 na drugim)		
+14	¯ebro z lotk¹	(NonDisplayable)	Normal	Each	5 + 5 = 10	(8 na drugim 2 na trzecim)		
+15	Lotka	(NonDisplayable)	Normal	Each		10 + 10 = 20	
+
+				
+17x	¯erbo monta¿_MIR	(NonDisplayable)	Normal	Each	2			
+18x	¯ebro z lotk¹_MIR	(NonDisplayable)	Normal	Each	5			
+19x	Lotka_MIR	(NonDisplayable)	Normal	Each	10			
+20x	¯ebro default_MIR	(NonDisplayable)	Normal	Each	2			
